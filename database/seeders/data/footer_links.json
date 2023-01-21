@@ -1,0 +1,40 @@
+{
+    "data" : [
+    {
+        "link_name": "はりきゅう治療",
+        "link": "https://rairacu.com/#shinkyu"
+    },
+    {
+        "link_name": "もみほぐし",
+        "link": "https://rairacu.com/#other"
+    },
+    {
+        "link_name": "施術内容・料金",
+        "link": "https://rairacu.com/price/"
+    },
+    {
+        "link_name": "ブログ",
+        "link": "https://rairacu.com/blog/"
+    },
+    {
+        "link_name": "予約カレンダー",
+        "link": "https://rairacu.com/calender/"
+    },
+    {
+        "link_name": "アクセス",
+        "link": "https://rairacu.com/access/"
+    },
+    {
+        "link_name": "その他",
+        "link": "https://rairacu.com/etc/"
+    },
+    {
+        "link_name": "プライバシーポリシー",
+        "link": "https://rairacu.com/privacypolicy/"
+    },
+    {
+        "link_name": "会社沿革",
+        "link": "https://rairacu.com/about/"
+    }
+	]
+}

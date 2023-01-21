@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+.mypage-box{
+  width: 40%;
+  margin: 0 auto;
+  padding: 20px 10px;
+}
+
+.mypage-title{
+  font-size: 24px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  text-decoration: underline;
+}
+
+.mypage-subtitle {
+  font-size: 24px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.mypage-item{
+  margin: 30px 0;
+  padding: 20px;
+  text-align: center;
+  font-size: 18px;
+  border: 1px solid royalblue;
+  border-radius: 8px;
+}
+
+.mypage-nodata{
+  text-align: center;
+  font-size: 20px;
+}
+.mypage-logout{
+  margin-left: 40px;
+  display: inline-block;
+}
+
+.mypage-logout button{
+    font-size: 12px;
+    padding: 3px 8px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: royalblue;
+    cursor: pointer;
+}

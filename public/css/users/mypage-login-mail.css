@@ -1,0 +1,75 @@
+@charset "utf-8";
+
+.mypage-mail-login-box{
+  width: 32%;
+  margin: 0 auto;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 20px 10px;
+}
+
+.mypage-mail-login-title{
+  font-size: 24px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.mypage-mail-login-parts{
+  margin: 20px 0;
+  padding-left: 15px;
+}
+
+.mypage-mail-login-label{
+  display: inline-block;
+  width: 30%;
+}
+
+.mypage-mail-login-input{
+  font-size: 18px;
+  height: 20px;
+  border: 1px solid royalblue;
+  border-radius: 8px;
+}
+
+.mypage-mail-login-input:focus {
+  outline: 1px solid royalblue;
+}
+
+.mypage-mail-login-btn{
+  text-align: center;
+  margin: 25px 0;
+}
+
+.mypage-mail-login-btn button{
+  font-size: 14px;
+  padding: 5px 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: royalblue;
+}
+
+.mypage-mail-login-btn button:hover{
+  background-color: lightskyblue;
+}
+
+.mypage-mail-login-password-forget {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.mypage-mail-login-line {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.mypage-mail-login-karteno {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.mypage-mail-login-error{
+  margin-top: 10px;
+  color: red;
+}

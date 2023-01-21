@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+.time-box {
+  text-align: center;
+}
+
+.timeBtn {
+  margin: 20px 0;
+}
+
+.timeBtn button {
+  background-color: white;
+  font-size: 18px;
+  padding: 10px 50px;
+  border: 1px solid royalblue;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.timeBtnHover:hover {
+  background-color: royalblue;
+}

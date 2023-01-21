@@ -1,0 +1,102 @@
+@charset "utf-8";
+
+.available-time-box{
+  width: 80%;
+  margin: 0 auto;
+  border-radius: 10px;
+  padding: 20px 30px 50px 30px;
+  background-color: white;
+}
+
+.available-time-flex{
+  display: flex;
+  margin-bottom: 40px;
+}
+
+.available-time-title{
+  font-size: 24px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.available-time-back {
+  font-size: 14px;
+  padding: 30px 0 30px 20px;
+}
+
+.available-time-back a{
+    text-decoration: none;
+}
+
+.available-time-btn{
+  margin: 20px;
+  text-align: center;
+}
+
+.available-time-btn button {
+  font-size: 18px;
+  padding: 5px 30px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: royalblue;
+}
+
+.available-time-btn button:hover {
+  background-color: lightskyblue;
+}
+.available-time-results{
+  margin: 40px 0;
+}
+
+.available-time-table-delete {
+  background-color: darkgray;
+}
+
+.available-time-error {
+  margin-left: 220px;
+  color: red;
+}
+
+.available-time-table {
+  text-align: center;
+  margin: 0 auto;
+  width: 70%;
+  border: 1px solid black;
+}
+
+.available-time-table-head {
+  border-top: 1px double black;
+  border-bottom: 1px double black;
+}
+
+.available-time-table-head tr th {
+  border: 1px solid black;
+  padding: 20px 0;
+}
+
+.available-time-table-body tr td {
+  border: 1px solid black;
+  height: 50px;
+}
+
+
+.available-time-input {
+  width: 70px;
+  height: 95%;
+  font-size: 20px;
+  text-align: center;
+  outline: none;
+  cursor: pointer;
+  border: none;
+}
+
+.available-time-table-row {
+  width: 200px;
+}
+
+.change-color{
+  background-color: orchid;
+}

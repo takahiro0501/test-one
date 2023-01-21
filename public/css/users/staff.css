@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+.staff-box {
+  text-align: center;
+}
+
+.staffBtn {
+  margin: 20px 0;
+}
+
+.staffBtn button {
+  width: 350px;
+  background-color: white;
+  font-size: 18px;
+  padding: 10px 50px;
+  border: 1px solid royalblue;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.staffBtnHover:hover {
+  background-color: royalblue;
+}

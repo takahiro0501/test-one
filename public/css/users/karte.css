@@ -1,0 +1,61 @@
+@charset "utf-8";
+
+.karte-login-box {
+  width: 32%;
+  margin: 0 auto;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 20px 10px;
+}
+
+.karte-login-title {
+  font-size: 24px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.karte-login-parts {
+  margin: 20px 0;
+  padding-left: 15px;
+}
+
+.karte-login-label {
+  display: inline-block;
+  width: 30%;
+}
+
+.karte-login-input {
+  font-size: 18px;
+  height: 20px;
+  border: 1px solid royalblue;
+  border-radius: 8px;
+}
+
+.karte-login-input:focus {
+  outline: 1px solid royalblue;
+}
+
+.karte-login-btn {
+  text-align: center;
+  margin: 15px 0;
+}
+
+.karte-login-btn button {
+  font-size: 14px;
+  padding: 5px 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: royalblue;
+}
+
+.karte-login-btn button:hover {
+  background-color: lightskyblue;
+}
+
+.karte-login-error {
+  margin-left: 30%;
+  margin-top: 10px;
+  color: red;
+}

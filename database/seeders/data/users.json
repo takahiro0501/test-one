@@ -1,0 +1,23 @@
+{
+    "data" : [
+    {
+        "role_id": "1",
+        "line_user_id": null,
+        "karte_no": "",
+        "name": "管理者",
+        "name_kana": "カンリシャ",
+        "gender": "1 ",
+        "first_day": null,
+        "birthday": null,
+        "postcode": "",
+        "prefecture": "",
+        "city": "",
+        "address": "",
+        "phone": "",
+        "cellphone": "",
+        "email": "maki@rairacu.com",
+        "email_verified_at": null,
+        "password": "12345678"
+    }
+]
+}

@@ -1,0 +1,76 @@
+@charset "utf-8";
+
+.user-guest-edit-box{
+  width: 35%;
+  margin: 0 auto;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 20px 10px;
+}
+
+.user-guest-edit-title{
+  font-size: 24px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.user-guest-edit-parts{
+  margin: 20px 0;
+  padding-left: 15px;
+}
+
+.user-guest-edit-label{
+  display: inline-block;
+  width: 35%;
+}
+
+.user-guest-edit-input{
+  font-size: 18px;
+  height: 26px;
+  border: 1px solid royalblue;
+  border-radius: 8px;
+}
+
+.user-guest-edit-input:focus {
+  outline: 1px solid royalblue;
+}
+
+.user-guest-edit-btn{
+  text-align: center;
+  margin: 50px 0 10px 0;
+}
+
+.user-guest-edit-btn button{
+  font-size: 14px;
+  padding: 5px 40px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: royalblue;
+}
+
+.user-guest-edit-btn button:hover{
+  background-color: lightskyblue;
+}
+
+.user-guest-edit-prefectures{
+  font-size: 14px;
+  height: 26px;
+  border: 1px solid royalblue;
+  border-radius: 8px;
+}
+
+.user-guest-edit-back{
+  text-align: center;
+}
+
+.user-guest-edit-error{
+  margin-top: 10px;
+  color: red;
+}
+
+.user-guest-edit-require {
+  color: red;
+  font-size: 12px;
+}

@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+.user-contens{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.user-header{
+  padding: 30px;
+}
+
+.user-footer {
+  width: 90%;
+  padding: 30px;
+  margin-top: auto;
+}
+
+.header-wrapper{
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-menu {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.footer-copylight {
+  text-align: center;
+}
+
+.comfirm-box{
+  width: 70%;
+  margin: 0 auto;
+}
+
+.comfirm-item {
+  display: flex;
+}
+.comfirm-item div{
+  margin: 10px;
+}
+
+.comfirm-btn {
+  display: flex;
+}
+
+.comfirm-btn div{
+  margin: 10px;
+}

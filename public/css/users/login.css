@@ -1,0 +1,94 @@
+@charset "utf-8";
+
+.login-box{
+  width: 32%;
+  margin: 0 auto;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 20px 10px;
+}
+
+.login-title{
+  font-size: 24px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.login-parts{
+  margin: 20px 0;
+  padding-left: 15px;
+}
+
+.login-label{
+  display: inline-block;
+  width: 30%;
+}
+
+.login-input{
+  font-size: 18px;
+  height: 20px;
+  border: 1px solid royalblue;
+  border-radius: 8px;
+}
+
+.login-input:focus {
+  outline: 1px solid royalblue;
+}
+
+.login-btn{
+  text-align: center;
+  margin: 15px 0;
+}
+
+.login-btn button{
+  font-size: 14px;
+  padding: 5px 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: royalblue;
+}
+
+.login-btn button:hover{
+  background-color: lightskyblue;
+}
+
+.login-link{
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.login-link button{
+  background-color: white;
+  border: none;
+  color: blue;
+  font-size: 16px;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.password-forget{
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.login-guest {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.login-line {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.login-karteno {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.login-error{
+  margin-top: 10px;
+  color: red;
+}

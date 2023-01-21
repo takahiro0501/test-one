@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+.admin-contens{
+    background-color: #eeeeee;
+    width: 100%;
+    min-height: 100vh;
+    padding-top: 70px;
+    padding-bottom: 100px;
+}

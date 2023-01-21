@@ -1,0 +1,59 @@
+@charset "utf-8";
+
+.staff-edit-box{
+  width: 70%;
+  margin: 0 auto;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 20px 10px;
+}
+
+.staff-edit-title{ 
+  font-size: 24px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.staff-edit-parts{
+  margin: 20px 0;
+  padding-left: 15px;
+}
+
+.staff-edit-label{
+  display: inline-block;
+  width: 150px;
+}
+
+.staff-edit-input{
+  width: 500px;
+  font-size: 18px;
+  height: 26px;
+}
+
+.staff-edit-btn{
+  text-align: center;
+  margin: 50px 0 10px 0;
+}
+
+.staff-edit-btn button{
+  font-size: 14px;
+  padding: 5px 40px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: royalblue;
+}
+
+.staff-edit-btn button:hover{
+  background-color: lightskyblue;
+}
+
+.staff-edit-back{
+  text-align: center;
+}
+
+.staff-edit-error{
+    margin-left: 160px;
+    color: red;
+}

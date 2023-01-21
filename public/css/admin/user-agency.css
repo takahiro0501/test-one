@@ -1,0 +1,73 @@
+@charset "utf-8";
+
+.admin-user-agency-box{
+  width: 80%;
+  margin: 0 auto;
+  border-radius: 10px;
+  padding: 20px 30px 50px 30px;
+  background-color: white;
+}
+
+.admin-user-agency-search{
+  text-align: center;
+}
+
+.admin-user-agency-title{
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.admin-user-agency-parts {
+  margin: 20px 0;
+  padding-left: 15px;
+}
+
+.admin-user-agency-label {
+  display: inline-block;
+  width: 200px;
+}
+
+.admin-user-agency-sentence {
+  display: inline-block;
+  width: 250px;
+  font-size: 20px;
+  text-align: left;
+}
+
+.admin-user-agency-input {
+  width: 250px;
+  font-size: 18px;
+  height: 25px;
+}
+
+.admin-user-agency-parts select{
+  width: 250px;
+  font-size: 18px;
+  height: 30px;
+}
+
+.admin-user-agency-flexbtn{
+  display: flex;
+  justify-content: center;
+}
+
+.admin-user-agency-search button {
+  font-size: 18px;
+  padding: 5px 30px;
+  margin: 10px 0 15px 0;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: royalblue;
+}
+
+.admin-user-agency-btn button:hover {
+  background-color: lightskyblue;
+}
+
+.admin-user-agency-error {
+  color: red;
+}

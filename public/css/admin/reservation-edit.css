@@ -1,0 +1,74 @@
+@charset "utf-8";
+
+.admin-reservation-edit-box{
+  width: 80%;
+  margin: 0 auto;
+  border-radius: 10px;
+  padding: 20px 30px 50px 30px;
+  background-color: white;
+}
+
+.admin-reservation-edit-search{
+  text-align: center;
+}
+
+.admin-reservation-edit-title{
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.admin-reservation-edit-parts {
+  margin: 20px 0;
+  padding-left: 15px;
+}
+
+.admin-reservation-edit-label {
+  display: inline-block;
+  width: 200px;
+}
+
+.admin-reservation-edit-sentence {
+  display: inline-block;
+  width: 250px;
+  font-size: 20px;
+  text-align: left;
+}
+
+.admin-reservation-edit-input {
+  width: 250px;
+  font-size: 18px;
+  height: 25px;
+}
+
+.admin-reservation-edit-parts select{
+  width: 250px;
+  font-size: 18px;
+  height: 30px;
+}
+
+.admin-reservation-edit-flexbtn{
+  display: flex;
+  justify-content: center;
+}
+
+.admin-reservation-edit-search button {
+  font-size: 18px;
+  padding: 5px 30px;
+  margin: 10px 0 15px 0;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: royalblue;
+}
+
+.admin-reservation-edit-btn button:hover {
+  background-color: lightskyblue;
+}
+
+.admin-reservation-edit-error {
+  margin-top: 10px;
+  color: red;
+}
